@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1",
+    "dotenv": "^10.0.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "name": "tmonie",
+  "version": "1.0.0",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
